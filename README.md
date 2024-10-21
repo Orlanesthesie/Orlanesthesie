@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orlanesthesie
-- 👀 I’m interested in make up and animals
-- 🌱 I’m currently learning to code php and SQL
+- 👀 I love girly stuff and animals
+- 🌱 I’m currently learning to code php and SQL, and really enjoy Blender and Figma !
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me orlane.r.6@gmail.com
 
